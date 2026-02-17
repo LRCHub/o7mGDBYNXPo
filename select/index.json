@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "HEAVEN",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-17T03:22:15.618448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heaven",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/01_Heaven_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Locked out of Heaven",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/02_Locked_out_of_Heaven_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Am I In Heaven?",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_Am_I_In_Heaven_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Am I in Heaven",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Am_I_in_Heaven_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heaven/Hell",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/05_Heaven_Hell_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heaven\u0000Hell",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/06_Heaven\u0000Hell_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heaven/Hell (Hansa Session)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/07_Heaven_Hell_(Hansa_Session)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heaven\u0000Hell (Hansa Session)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/08_Heaven\u0000Hell_(Hansa_Session)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(You Lift Me) Up To Heaven",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/09_(You_Lift_Me)_Up_To_Heaven_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(You Lift Me) Up To Heaven (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/10_(You_Lift_Me)_Up_To_Heaven_(Album_Version)_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Already It's Heaven",
+      "artist": "David Houston",
+      "has_synced": true,
+      "path": "select/11_Already_It's_Heaven_David_Houston.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Closer to Heaven (feat. Gregory Porter)",
+      "artist": "Zac Brown Band feat. Gregory Porter",
+      "has_synced": true,
+      "path": "select/12_Closer_to_Heaven_(feat._Gregory_Porter)_Zac_Brown_Band_feat._Gregory_Porter.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Closer To Heaven (feat. Gregory Porter)",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/13_Closer_To_Heaven_(feat._Gregory_Porter)_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do You Wanna Go To Heaven",
+      "artist": "T.G. Sheppard",
+      "has_synced": true,
+      "path": "select/14_Do_You_Wanna_Go_To_Heaven_T.G._Sheppard.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Do You Wanna Go To Heaven",
+      "artist": "TG Sheppard",
+      "has_synced": true,
+      "path": "select/15_Do_You_Wanna_Go_To_Heaven_TG_Sheppard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Everybody Wants To Go To Heaven - with The Wailers",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/16_Everybody_Wants_To_Go_To_Heaven_-_with_The_Wailers_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Everybody Wants to Go to Heaven (with The Wailers)",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/17_Everybody_Wants_to_Go_to_Heaven_(with_The_Wailers)_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "GIVE HEAVEN SOME HELL",
+      "artist": "Hardy",
+      "has_synced": true,
+      "path": "select/18_GIVE_HEAVEN_SOME_HELL_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Heaven",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/19_Heaven_Jason_Aldean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEAVEN",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_HEAVEN_伊東歌詞太郎.txt"
+    }
+  ]
+}
